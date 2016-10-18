@@ -1,0 +1,5 @@
+D:\Otero\Indexador\Excep\bin\Debug\Excep.exe.config
+D:\Otero\Indexador\Excep\bin\Debug\Excep.exe
+D:\Otero\Indexador\Excep\bin\Debug\Excep.pdb
+D:\Otero\Indexador\Excep\obj\Debug\Excep.exe
+D:\Otero\Indexador\Excep\obj\Debug\Excep.pdb

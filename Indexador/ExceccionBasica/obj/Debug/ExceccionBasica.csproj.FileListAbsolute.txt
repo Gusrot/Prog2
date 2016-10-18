@@ -1,0 +1,6 @@
+D:\Otero\Indexador\ExceccionBasica\bin\Debug\ExceccionBasica.exe.config
+D:\Otero\Indexador\ExceccionBasica\bin\Debug\ExceccionBasica.exe
+D:\Otero\Indexador\ExceccionBasica\bin\Debug\ExceccionBasica.pdb
+D:\Otero\Indexador\ExceccionBasica\obj\Debug\ExceccionBasica.exe
+D:\Otero\Indexador\ExceccionBasica\obj\Debug\ExceccionBasica.pdb
+D:\Otero\Indexador\ExceccionBasica\obj\Debug\ExceccionBasica.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Otero\Indexador\MisClases\bin\Debug\MisClases.dll
+D:\Otero\Indexador\MisClases\bin\Debug\MisClases.pdb
+D:\Otero\Indexador\MisClases\obj\Debug\MisClases.csprojResolveAssemblyReference.cache
+D:\Otero\Indexador\MisClases\obj\Debug\MisClases.dll
+D:\Otero\Indexador\MisClases\obj\Debug\MisClases.pdb

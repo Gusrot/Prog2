@@ -1,0 +1,8 @@
+D:\Otero\Indexador\Indexador\bin\Debug\Indexador.exe.config
+D:\Otero\Indexador\Indexador\bin\Debug\Indexador.exe
+D:\Otero\Indexador\Indexador\bin\Debug\Indexador.pdb
+D:\Otero\Indexador\Indexador\bin\Debug\MisClases.dll
+D:\Otero\Indexador\Indexador\bin\Debug\MisClases.pdb
+D:\Otero\Indexador\Indexador\obj\Debug\Indexador.csprojResolveAssemblyReference.cache
+D:\Otero\Indexador\Indexador\obj\Debug\Indexador.exe
+D:\Otero\Indexador\Indexador\obj\Debug\Indexador.pdb
