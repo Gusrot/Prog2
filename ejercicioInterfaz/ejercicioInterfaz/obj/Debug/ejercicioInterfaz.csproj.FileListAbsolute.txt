@@ -1,0 +1,6 @@
+D:\Rotela Gustavo\ejercicioInterfaz\ejercicioInterfaz\bin\Debug\ejercicioInterfaz.exe.config
+D:\Rotela Gustavo\ejercicioInterfaz\ejercicioInterfaz\obj\Debug\ejercicioInterfaz.csprojResolveAssemblyReference.cache
+D:\Rotela Gustavo\ejercicioInterfaz\ejercicioInterfaz\bin\Debug\ejercicioInterfaz.exe
+D:\Rotela Gustavo\ejercicioInterfaz\ejercicioInterfaz\bin\Debug\ejercicioInterfaz.pdb
+D:\Rotela Gustavo\ejercicioInterfaz\ejercicioInterfaz\obj\Debug\ejercicioInterfaz.exe
+D:\Rotela Gustavo\ejercicioInterfaz\ejercicioInterfaz\obj\Debug\ejercicioInterfaz.pdb
